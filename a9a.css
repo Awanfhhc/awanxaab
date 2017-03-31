@@ -1,0 +1,138 @@
+@import url(http://ajja.xtgem.com/sdmn.css);
+
+
+
+.post .post-meta h2 {margin:0px 0px 1px 0px;text-align:left;padding:0px;font-size:small}
+
+
+
+.post .post-meta {background:#575757; padding:5px 0px 5px 0px;border-top:2px solid #900000;margin:0px;border-bottom:1px solid black;text-align:left;color:#b7b7b7;font-size:small}
+
+
+
+.comment-content, .post-content, .post .post-content {padding:7px;color:whitesmoke;text-align:left;}
+
+
+
+.comment-header h5, .post-single .post-meta h1 {border:none;padding:5px 0px 5px 2px;margin:0px 0px 1px 0px;color:darkslateblue;text-align:left;font-size:small}
+
+
+
+.post-single .post-meta {background:#575757;color:#b7b7b7;text-align:left;border-bottom:1px solid black;border-top:2px solid #900000;padding:0px;margin:0px;font-size:small}
+
+
+
+.post-single .post-meta h2 {color:#b7b7b7;border:none;margin:0px 0px 1px 0px;}
+
+
+
+#share-buttons {background:#272727;text-align:center;border-top:2px solid darkslateblue;margin:0px;padding:5px}
+
+
+
+#pagination-links  {background:#272727;border:none;margin:0px;padding:7px 0px 7px 0px;text-align:left}
+
+
+
+#pagination-links a  {background:#900000;color:#b7b7b7;border:2px solid #000;margin:1px;padding:2px 6px 2px 6px;display:inline-block}
+
+
+
+#pagination-links span {background:#b7b7b7;color:#000;border:1px solid #000;margin:1px;padding:2px 6px 2px 6px}
+
+
+
+
+
+#footer h6 {margin:0px;padding:0px}
+
+#footer:after {content:url(http://ajja.xtgem.com/Sjs00.png);display:block;text-align:center}
+
+
+
+#comments h4 {background:#575757;text-align:center;margin:0px;padding:5px 0px 5px 0px;border-top:1px solid black;color:#b7b7b7}
+
+
+
+.comment-header {background:#575757 url(http://ajja.xtgem.com/Sjs0.png) 1px center no-repeat; padding:5px 0px 5px 46px;color:#b7b7b7;margin:0px;border-top:2px solid #900000;text-align:left;font-size:small;border-bottom:1px solid black}
+
+
+
+#blogroll li:nth-child(even), #category-bottom li:nth-child(even), #recent-posts-list li:nth-child(even), #comments li, #navigation-menu li:nth-child(even) {list-style:none;text-align:left;padding:5px 0px 5px 2px;margin:0px;color:whitesmoke;border-top:1px solid black;background:#6f6f6f}
+
+
+
+#blogroll li:nth-child(odd), #category-bottom li:nth-child(odd), #recent-posts-list li:nth-child(odd), #navigation-menu li:nth-child(odd) {list-style:none;text-align:left;padding:5px 0px 5px 2px;margin:0px;color:whitesmoke;border-top:1px solid black;background:#575757}
+
+
+
+#comments ol, #recent-posts-list ol {margin:-3px;padding:3px}
+
+
+
+#footer {background:#191919;border:none;margin:5px 0px 0px 0px;padding:8px 0px 0px 0px;text-align:center;color:#b7b7b7}
+
+
+
+#navigation-menu h3 a, #comments h3 a, #new-entry h3 a {color:#b7b7b7}
+
+
+
+
+
+#comments form {background:#6f6f6f;text-align:center;color:whitesmoke;border-top:1px solid black}
+
+
+
+#recent-posts-list h4, #new-entry h3, #category-bottom h3, #comments h3, #navigation-menu h3, #blogroll h3 {background:#900000;border-top:2px solid #483d8b;margin:0px;padding:7px 0px 7px 0px;color:#b7b7b7;text-align:center}
+
+
+
+#comments h5 {background:transparent;border:none;text-align:left;color:#b7b7b7}
+
+
+
+.post .post-meta2 {background:#6f6f6f url(http://ajja.xtgem.com/Sjs8.png) left bottom no-repeat;border-bottom:2px solid #483d8b;margin:0px;padding:6px 0px 10px 0px;text-align:right}
+
+
+
+.post .post-meta2 a {background:#483d8b;border:2px solid black;margin:0px 5px 8px 0px;padding:5px 4px 5px 4px;text-align:right;color:#b7b7b7}
+
+
+
+.post .post-content:before {content:url(http://ajja.xtgem.com/Sjs5.png);float:left;margin:0 3px 0 0}
+
+
+
+#header:before {content:url(http://ajja.xtgem.com/Sjs4.png);display:block;background:black;border-bottom:2px solid #900000;padding:2px 0px 3px 2px}
+
+
+
+#navigation span + span {width:35%;margin:5px;padding:8px 5px 5px 8px;display:block;background:#483d8b;border:2px solid black}
+
+#navigation span + span + span {width:35%;margin:5px;padding:8px 5px 5px 8px;display:block;background:#900000;border:2px solid black}
+
+
+
+.comment {border-bottom:2px solid darkslateblue}
+
+
+
+.comment:after {content:url(http://ajja.xtgem.com/Sjs8.png);display:block;text-align:right}
+
+
+
+#comments form .inp-btn {width: 50%;padding:6px 2px;border:2px solid black;color:black;margin:5px 0px 20px;background:darkslateblue;color:#b7b7b7}
+
+
+
+#comments form .inp-text {width: 80%;padding:4px 2px;border:2px solid black;color:black;background:#b7b7b7}
+
+
+
+#comments form .inp-textarea {width: 80%;padding:30px 2px;border:2px solid black;color:black;background:#b7b7b7}
+
+
+
+#pagination-links a:last-child {content:"Next"}
+.comment-header:after {content:"Commented";display:block}
